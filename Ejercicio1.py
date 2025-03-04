@@ -1,3 +1,4 @@
+# 2240032 - Daniver Franchesco Hernandez Acero
 # Un array de 30 elementos (los 30 candidatos) en que el valor guardado en los elementos corresponde a los votos obtenidos
 import numpy as np
 
