@@ -15,7 +15,12 @@ NumPy nos proporciona soporte para poder utilizar arreglos y matrices multidimen
 - Ejercicio 1:
   En la universidad se efectuó la elección del representante de los estudiantes ante el Consejo Superior. Se presentaron 30 candidatos y cada uno se identificó con un número del 1 al 30. Asumiendo que los 5000 estudiantes de la universidad votaron, elabore un programa donde:
   1.	Imprima un listado de mayor a menor, según el número de votos obtenidos por cada candidato
+
+El desarrollo de este ejercicio se encuentra en el archivo Ejercicio1.py del repositorio
+
 - Ejercicio 2:
   Suponga que en la UIS hay 6500 estudiantes. Por cada uno de ellos tenemos un registro con el código, nombre y promedio acumulado. Hacer el programa que:
   1.	Imprima el código y el nombre de los estudiantes de la carrera X (debe leerse el código de la carrera a listar) que tengan promedio acumulado igual o mayor a 4 y decir cuántos fueron.
   2.	Imprima el código y el nombre de los estudiantes que ingresaron antes de 1990 y están condicionales.
+ 
+  El desarrollo de este ejercicio se encuentra en el archivo Ejercicio2.py del repositorio
